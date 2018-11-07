@@ -10,8 +10,7 @@
 		<dependency>
     			<groupId>org.jacoco</groupId>
     			<artifactId>jacoco-maven-plugin</artifactId>
-    			<version>0.8.2</version>
-		</dependency>
+  		</dependency>
         </dependencies>
     </dependencyManagement>
 </project>
